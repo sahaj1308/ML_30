@@ -11,6 +11,7 @@ Web Interface: Streamlit provides an easy-to-use web interface for users to uplo
 The makeup products provided are lipstick, foundation, eyeliner, kajal and eyebrow with a range of different colour shades.
 
 RELEVANCE of this project:
+
 Provides users with an interactive and engaging way to try on makeup without physical application, making the shopping experience more enjoyable and informative.
 Allows users to experiment with different makeup looks, colors, and styles to find what suits them best, promoting personalization in beauty routines.
 Acts as an innovative marketing tool for beauty brands to showcase their products and attract customers by offering a unique virtual try-on experience.
